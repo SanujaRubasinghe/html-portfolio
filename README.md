@@ -1,2 +1,3 @@
 # html-portfolio
-# Assets
+Assets and Public folders are not yet populated.
+
